@@ -112,7 +112,7 @@
 }
 
 .animate-card-hover:hover {
-  animation: card-hover 0.3s ease-out forwards;
+  animation: card-hover 0.4s ease-out forwards;
 }
 
 .animate-neon-border {
